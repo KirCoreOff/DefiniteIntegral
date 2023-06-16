@@ -1,6 +1,13 @@
-#16.06.2023
-##NEW 
-- Initial 
+# 16.06.2023
 
-##FIX
+## NEW
+
+- Initial
+
+## FIX
+
 - Added src
+
+## CHANGED
+
+- Code cleanup
